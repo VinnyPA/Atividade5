@@ -20,7 +20,7 @@ namespace Atividade5
                 contador++;
                 Console.WriteLine(contador);
             }
-;
+
             Console.ReadKey();
         }
     }
